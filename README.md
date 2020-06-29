@@ -55,4 +55,3 @@ To focus in a test you can:
 2. Use force test: replace `it(...)` by `fit(...)` 
   (just and f before the test) to the test that you want to solve,
   it will ignore all other tests and you will focus on that.
-
